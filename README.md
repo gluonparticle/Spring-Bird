@@ -35,6 +35,10 @@ The issue of plastic pollution stems not from its production but from its irresp
 
 The Flutter frontend is compiled into native code for the Android platform. Google Cloud was chosen for deploying the ML model due to its scalability, reliability, and security.
 
+## Walkthrough Video
+[![Walkthrough Video](http://img.youtube.com/vi/FYFllzZMq-Y/0.jpg)](https://www.youtube.com/watch?v=FYFllzZMq-Y)
+
+
 ## Setup the Project
 
 1. Clone the repo ```https://github.com/gluonparticle/Spring-Bird```
