@@ -40,6 +40,8 @@ The Flutter frontend is compiled into native code for the Android platform. Goog
 1. Clone the repo ```https://github.com/gluonparticle/Spring-Bird```
 2. [Setup Flutter](https://docs.flutter.dev/get-started/install) on your device
 3. Run Flutter app
+4. Download and Install [Python](https://www.python.org/downloads/)
+5. Install Tensorflow using pip ```pip install tensorflow```
 
 ## Conclusion
 
