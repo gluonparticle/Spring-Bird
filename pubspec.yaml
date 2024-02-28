@@ -29,3 +29,6 @@ flutter:
   uses-material-design: true
   assets:
     - assets/
+    - assets/model.h5
+    - assets/model.tflite
+
