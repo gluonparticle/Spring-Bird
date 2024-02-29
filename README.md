@@ -57,9 +57,9 @@ Follow the [Flutter installation instructions for Linux](https://docs.flutter.de
 
 4. Open the Project:
 
-##Windows
+##Windows 
 1. '''bash
-git clone https://github.com/gluonparticle/Spring-Bird.git
+   git clone https://github.com/gluonparticle/Spring-Bird.git
 
 
 
