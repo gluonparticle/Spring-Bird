@@ -2,7 +2,7 @@
 
 Spring Bird is a software application aimed at promoting environment friendly shopping practices by providing users with information about the plastic content in products. It analyzes products and offers a rating based on the percentage of plastic found, helping users make informed, sustainable choices while shopping.
 
-## Problem Statement
+## Purpose
 
 The issue of plastic pollution stems not from its production but from its irresponsible consumption, management, and recycling. Less than 10% of the world's plastic is actually recycled, leading to environmental pollution, habitat destruction, and resource depletion. **Spring Bird** aims to address this challenge by empowering users to make wise choices while shopping, thereby reducing plastic consumption and promoting environmentally friendly habits.
 
@@ -41,7 +41,7 @@ The Flutter frontend is compiled into native code for the Android platform. Goog
 
 ## Setup the Project
 
-1. Clone the repo ```https://github.com/gluonparticle/Spring-Bird```
+1. Clone the repo ```git clone https://github.com/gluonparticle/Spring-Bird```
 2. [Setup Flutter](https://docs.flutter.dev/get-started/install) on your device
 3. Run Flutter app ```flutter run -d MOBILE_DEVICE_NAME```
 4. Download and Install [Python](https://www.python.org/downloads/)
