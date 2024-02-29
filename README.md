@@ -52,7 +52,7 @@ Follow these steps to setup and test the Spring Bird app:
    Follow the [Flutter installation instructions for Linux](https://docs.flutter.dev/get-started/install/linux) to set up Flutter on your system.
 
 3. **Extract Packages:**
-   '''bash
+   ```bash
    tar -xzvf package_name.tar.gz
 
 4. **Open the Project in Android Studio/Visual Studio**
@@ -68,15 +68,48 @@ Follow these steps to setup and test the Spring Bird app:
    4. Click Run to install and launch the app on your Android device.
 
 ## Windows 
-1. '''bash
+1. **Clone the repository**
+   ```bash
    git clone https://github.com/gluonparticle/Spring-Bird.git
 
+2. **Install Flutter:**
 
+   Follow the [Flutter installation instructions for Linux](https://docs.flutter.dev/get-started/install/windows) to set up **Flutter** on your system.
 
-Open a terminal window and run the flutter run command to launch the app in debug mode.
-Navigate to the cloned Spring-Bird directory.
-If any packages or dependencies are provided as tar.gz files, use the following commands to extract them:
-## Setup the Project
+3. **Extract the zip file**
+   Extract the zip file using Windows Extract tool, WinRAR, 7 Zip or any other extraction software.
+
+4. **Open the project**
+    1. Open the Project in Visual Studio Code:
+    2. Open Visual Studio Code.
+    3. Click on **File > Open Folder** and navigate to the cloned **Spring-Bird** directory.
+    4. Select the folder and click **Open**
+
+## macOS
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/gluonparticle/Spring-Bird.git
+
+2. **Install Flutter:**
+
+   Follow the [Flutter installation instructions for Linux](https://docs.flutter.dev/get-started/install/macos) to set up **Flutter** on your system.
+
+3. **Extract the zip file**
+   1. Navigate to the cloned **Spring-Bird** directory.
+   2. If any packages or dependencies need to be unzipped, use the unzip command in the terminal:
+      ```bash
+      unzip Spring-Bird.zip
+
+4. **Open the Project in Xcode:**
+   1. **Open** Xcode.
+   2. Click on **File > Open** and navigate to the cloned Spring-Bird directory.
+   3. Select the ios subdirectory and click **Open.**
+   
+5. **Run the App:**
+
+   1. In Xcode, select your device or simulator from the toolbar.
+   2. Click the **Run **button to build and launch the app on your device or simulator.
+
 
 1. Clone the repo ```git clone https://github.com/gluonparticle/Spring-Bird```
 2. [Setup Flutter](https://docs.flutter.dev/get-started/install) on your device
