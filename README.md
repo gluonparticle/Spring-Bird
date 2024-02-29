@@ -108,14 +108,8 @@ Follow these steps to setup and test the Spring Bird app:
 5. **Run the App:**
 
    1. In Xcode, select your device or simulator from the toolbar.
-   2. Click the **Run **button to build and launch the app on your device or simulator.
+   2. Click the **Run**button to build and launch the app on your device or simulator.
 
-
-1. Clone the repo ```git clone https://github.com/gluonparticle/Spring-Bird```
-2. [Setup Flutter](https://docs.flutter.dev/get-started/install) on your device
-3. Run Flutter app ```flutter run -d MOBILE_DEVICE_NAME```
-4. Download and Install [Python](https://www.python.org/downloads/)
-5. Install Tensorflow using pip ```pip install tensorflow```
 
 ## Conclusion
 
