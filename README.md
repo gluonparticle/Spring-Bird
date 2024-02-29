@@ -1,4 +1,5 @@
-# Spring Bird 🕊: Plastic-Free Shopping Assistant 🛍
+# Spring Bird 🕊: Empowering Sustainable Shopping Practices 🛍
+## Your Plastic-Free Shopping Assistant 🌱
 
 Spring Bird is a software application aimed at promoting environment friendly shopping practices by providing users with information about the plastic content in products. It analyzes products and offers a rating based on the percentage of plastic found, helping users make informed, sustainable choices while shopping.
 
