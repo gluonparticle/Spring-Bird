@@ -43,21 +43,31 @@ The Flutter frontend is compiled into native code for the Android platform. Goog
 
 Follow these steps to setup and test the Spring Bird app:
 
-##Linux
+## Linux
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/gluonparticle/Spring-Bird.git
-2. Install Flutter:
+2. **Install Flutter:**
 
-Follow the [Flutter installation instructions for Linux](https://docs.flutter.dev/get-started/install/linux) to set up Flutter on your system.
+   Follow the [Flutter installation instructions for Linux](https://docs.flutter.dev/get-started/install/linux) to set up Flutter on your system.
 
-3. Extract Packages:
+3. **Extract Packages:**
    '''bash
    tar -xzvf package_name.tar.gz
 
-4. Open the Project:
+4. **Open the Project in Android Studio/Visual Studio**
+   1. Open Android Studio.
+   2. Click on File > Open and navigate to the cloned Spring-Bird directory.
+   3. Click Open
 
-##Windows 
+5. **Run the App:**
+
+   1. In Android Studio, locate the main Flutter project file (main.dart) in the project explorer.
+   2. Right-click on main.dart and select Run.
+   3. Choose your connected Android device from the list of available devices.
+   4. Click Run to install and launch the app on your Android device.
+
+## Windows 
 1. '''bash
    git clone https://github.com/gluonparticle/Spring-Bird.git
 
