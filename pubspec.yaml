@@ -30,5 +30,5 @@ flutter:
   assets:
     - assets/
     - assets/model.h5
-    - assets/model.tflite
+    - assets/object_segmentation.tflite
 
